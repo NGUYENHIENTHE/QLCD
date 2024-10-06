@@ -1,0 +1,31 @@
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.csproj.AssemblyReference.cache
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.AssemblyInfoInputs.cache
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.AssemblyInfo.cs
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.csproj.CoreCompileInputs.cache
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\bin\Debug\net8.0-windows7.0\BLL.deps.json
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\bin\Debug\net8.0-windows7.0\BLL.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\bin\Debug\net8.0-windows7.0\BLL.pdb
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\bin\Debug\net8.0-windows7.0\DAL.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\bin\Debug\net8.0-windows7.0\DAL.pdb
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.csproj.Up2Date
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\refint\BLL.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.pdb
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\ref\BLL.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.sourcelink.json
+D:\Github\Phát triển PM\DemoQLCD\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\bin\Debug\net8.0-windows7.0\BLL.deps.json
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\bin\Debug\net8.0-windows7.0\BLL.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\bin\Debug\net8.0-windows7.0\BLL.pdb
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\bin\Debug\net8.0-windows7.0\DAL.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\bin\Debug\net8.0-windows7.0\DAL.pdb
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.csproj.AssemblyReference.cache
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.AssemblyInfoInputs.cache
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.AssemblyInfo.cs
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.csproj.CoreCompileInputs.cache
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.csproj.Up2Date
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\refint\BLL.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\BLL.pdb
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\BLL\obj\Debug\net8.0-windows7.0\ref\BLL.dll

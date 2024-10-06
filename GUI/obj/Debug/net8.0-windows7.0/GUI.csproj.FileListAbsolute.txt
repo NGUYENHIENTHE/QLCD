@@ -1,0 +1,192 @@
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.csproj.AssemblyReference.cache
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.DangNhap.resources
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.FormMain.resources
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.csproj.GenerateResource.cache
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.AssemblyInfoInputs.cache
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.AssemblyInfo.cs
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.csproj.CoreCompileInputs.cache
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.exe
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.deps.json
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.runtimeconfig.json
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.pdb
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Neo4j.Driver.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Neo4jClient.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\System.IO.Pipelines.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\BLL.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\DAL.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\BLL.pdb
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\DAL.pdb
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.csproj.Up2Date
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\refint\GUI.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.pdb
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.genruntimeconfig.cache
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\ref\GUI.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.sourcelink.json
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.Properties.Resources.resources
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\CSharpMarkup.WinUI.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\CSharpMarkup.WinUI.LiveChartsCore.SkiaSharpView.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\HarfBuzzSharp.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.Behaviours.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.SkiaSharpView.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.SkiaSharpView.Uno.WinUI.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.SkiaSharpView.WinForms.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\OpenTK.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\OpenTK.GLControl.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.HarfBuzz.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.Views.Desktop.Common.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.Views.Windows.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.Views.WindowsForms.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Diagnostics.Eventing.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Fonts.Fluent.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Foundation.Logging.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Foundation.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.Composition.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.Dispatching.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.FluentTheme.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.FluentTheme.v1.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.FluentTheme.v2.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.Toolkit.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Xaml.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.TraCuu.resources
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.CongDan.resources
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.ThemCongDan.resources
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.ThongTin.resources
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\EPPlus.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\EPPlus.Interfaces.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\EPPlus.System.Drawing.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Github\Phát triển PM\DemoQLCD\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.exe
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.deps.json
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.runtimeconfig.json
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\GUI.pdb
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\CSharpMarkup.WinUI.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\CSharpMarkup.WinUI.LiveChartsCore.SkiaSharpView.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\EPPlus.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\EPPlus.Interfaces.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\EPPlus.System.Drawing.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\HarfBuzzSharp.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.Behaviours.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.SkiaSharpView.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.SkiaSharpView.Uno.WinUI.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\LiveChartsCore.SkiaSharpView.WinForms.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Neo4j.Driver.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Neo4jClient.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Newtonsoft.Json.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\OpenTK.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\OpenTK.GLControl.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.HarfBuzz.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.Views.Desktop.Common.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.Views.Windows.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\SkiaSharp.Views.WindowsForms.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\System.IO.Pipelines.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Diagnostics.Eventing.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Fonts.Fluent.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Foundation.Logging.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Foundation.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.Composition.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.Dispatching.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.FluentTheme.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.FluentTheme.v1.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.FluentTheme.v2.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.Toolkit.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.UI.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.Xaml.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\Uno.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\BLL.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\DAL.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\BLL.pdb
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\bin\Debug\net8.0-windows7.0\DAL.pdb
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.csproj.AssemblyReference.cache
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.CongDan.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.DangNhap.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.FormMain.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.Properties.Resources.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.ThemCongDan.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.ThongTin.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.TraCuu.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.csproj.GenerateResource.cache
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.AssemblyInfoInputs.cache
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.AssemblyInfo.cs
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.csproj.CoreCompileInputs.cache
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.csproj.Up2Date
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\refint\GUI.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.pdb
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.genruntimeconfig.cache
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\ref\GUI.dll
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.DangKy.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.Khaisinh.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.HonNhan.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.CongDanTu.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.DKCongDan.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.HoKhau.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.TamTru.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.GDTaiKhoan.resources
+D:\LuuTruTapTin\DemoQLCD-main\QLCD\GUI\obj\Debug\net8.0-windows7.0\GUI.DoiMatKhau.resources
